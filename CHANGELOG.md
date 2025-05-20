@@ -1,8 +1,9 @@
 # CHANGELOG.md
 
-## v0.0.1
+## v0.0.4
 Fixes:
- - None
+ - Removed unused test "Led_3"
 
 Features:
- - Initial version of application
+ - Added build and test with CI/CD github action
+ - Using Segger tunnel server through their own server for on-target testing
